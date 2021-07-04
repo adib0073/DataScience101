@@ -89,7 +89,7 @@ After that you would have to suggest various ways to fight over-fitting and unde
 
 ## Week 4 - Unsupervised Machine Learning
 
-**Assignment 7: **
+**Assignment 7:** -
 
 **Link**: 
 
@@ -98,7 +98,7 @@ After that you would have to suggest various ways to fight over-fitting and unde
 **Dataset:** 
 
 
-**Assignment 8: **
+**Assignment 8:** -
 
 **Link**: 
 
@@ -160,7 +160,7 @@ Note: Make sure you cover the following concepts
 
 ## Week 7 - Productionizing ML models using Microsoft Azure
 
-**Assignment 13: ** Deploying ML models as API services
+**Assignment 13: Deploying ML models as API services**
 
 **Link**: 
 
@@ -168,7 +168,7 @@ Note: Make sure you cover the following concepts
 
 **Dataset:** 
 
-**Assignment 14: ** Azure Machine Learning and Cognitive Services
+**Assignment 14: Azure Machine Learning and Cognitive Services**
 
 **Link**: 
 
@@ -179,7 +179,7 @@ Note: Make sure you cover the following concepts
 
 ## Week 8 - Data Reporting and Visualization
 
-**Assignment 15: ** Dashboarding using PowerBi
+**Assignment 15: Dashboarding using PowerBi**
 
 **Link**: 
 
@@ -187,7 +187,7 @@ Note: Make sure you cover the following concepts
 
 **Dataset:** 
 
-**Assignment 16: ** Dashboarding using PowerBi
+**Assignment 16: Dashboarding using PowerBi**
 
 **Link**: 
 

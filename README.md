@@ -18,7 +18,7 @@ Repository and detailed plan to become an applied data scientist within 2 months
 
 **Assignment 2: Movie Genre Data- EDA and One Hot Encoding**
 
-**Link**: [Movie Genre| Kaggle](https://www.kaggle.com/neha1703/movie-genre-from-its-poster)
+**Link**: [Movie Genre | Kaggle](https://www.kaggle.com/neha1703/movie-genre-from-its-poster)
 
 **Description:** Although the actual dataset contains lot of images, but for the ETL work we will use the MovieGenre.csv which is under the Data section. The main problem is about Movie Genre classification from image posters.But for this assignment, from the actual dataset (MovieGenre.csv) you would have to create a One Hot Encoded processed dataset (please search online what one-hot encoding is). So, the output should look like the processed_data.csv as attached. You would have to do exploratory data analysis (EDA) on the dataset and finally, on the processed dataset after the ETL process, you would be plotting the distribution of the entire dataset.
 In short, three broad tasks for the assignment:
@@ -110,11 +110,26 @@ After that you would have to suggest various ways to fight over-fitting and unde
 
 **Assignment 9: Univariate Time Series Analysis**
 
-**Link**: 
+**Description:** This time you are helping out Unicorn Investors with your data hacking skills. They are considering making an investment in a new form of transportation called JetRail. JetRail uses Jet propulsion technology to run rails and move people at a high speed! While JetRail has mastered the technology and they hold the patent for their product, the investment would only make sense, if they can get more than 1 Million monthly users with in next 18 months.You need to help Unicorn ventures with the decision. They usually invest in B2C start-ups less than 4 years old looking for pre-series A funding. To help Unicorn Ventures in their decision, you need to forecast the traffic on JetRail for the next 7 months. You are provided with traffic data of JetRail since inception in the train file.
 
-**Description:** 
+Note: Make sure you cover the following concepts 
+1)	Why and how is time series different from Regression
+2)	What are different types of time series predictions 
+3)	What is Hypothesis Generation
+4)	Understanding the Dataset Structure and Content
+5)	Feature Extraction
+6)	Exploratory Analysis
+7)	Splitting the data into training and validation part
+8)	Modelling techniques
+9)	Holt’s Linear Trend Model on daily time series
+10)	Holt Winter’s Model on daily time series
+11)	ARIMA model
+12)	Parameter tuning for ARIMA model
+13)	SARIMAX model on daily time series
+14)	Calculate error using different evaluation metrics 
 
-**Dataset:** 
+
+**Dataset:** Jet Rail Time Series Data
 
 
 **Assignment 10: Multivariate Time Series Analysis**
@@ -136,6 +151,7 @@ After that you would have to suggest various ways to fight over-fitting and unde
 **Dataset:** 
 
 **Assignment 12: **
+
 **Link**: 
 
 **Description:** 
